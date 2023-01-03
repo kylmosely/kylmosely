@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently building automation, simulation, and API technology.<br>
+Building things for fun. Business Analyst at Amzn tinkering.<br>
 
 
 # 💻 Tech Stack:
